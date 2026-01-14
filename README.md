@@ -22,7 +22,7 @@ By leveraging data visualization, the project identifies student performance tre
 
 ## 🖼 Dashboard Preview
 ![Dashboard Overview](student-performance-dashboard-overview.png)
-*(Note: Ensure your image file name matches exactly)*.
+
 
 ## 📂 Project Structure
 * `PJ1.pbix`: The core Power BI project file.
